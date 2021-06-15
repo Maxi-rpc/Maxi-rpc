@@ -1,6 +1,7 @@
 <p align="center">
-  <img style="border-radius: 50%;" width="460" height="" src="./image/avatar.jpg">
+  <img style="border-radius: 50%;" width="460" height="" src="./image/avatar-sinfondo.png">
 </p>
+
 
 ### Hola Mundo!
 
