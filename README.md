@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="border-radius: 50%;" width="460" height="" src="./image/avatar-sinfondo.png">
+  <img width="30%" height="" src="./image/avatar-sinfondo.png">
 </p>
 
 
