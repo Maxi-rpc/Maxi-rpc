@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="30%" height="" src="./image/avatar-sinfondo.png">
+  <img width="30%" height="" src="./image/avatar-sinfondoOriginal.png">
 </p>
 
 
