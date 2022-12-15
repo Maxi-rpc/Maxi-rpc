@@ -8,7 +8,7 @@
 ## Soy Max
 
 - 🔭 Estoy trabajando actualmente en Tivit Synapsis
-- 💬 Estudiante de UTN - FRGP - Técnicatura en Programación.
+- 💬 UTN - FRGP - Técnicatura en Programación.
 - 📫 Contacto: [maxirpc2607@gmail.com](mailto:maxirpc2607@gmail.com) 
 - 💻 Estudiante autodidacta
    * HTML
@@ -16,6 +16,8 @@
    * Javascript
    * Bootstrap
    * React JS
+   * Node Js
+   * Express Js
    * SQL 
 
 <a href="https://github.com/Maxi-rpc">
