@@ -7,7 +7,7 @@
 
 ## Soy Max
 
-- 🔭 Estoy trabajando actualmente en Tivit Synapsis
+- 🔭 Estoy trabajando actualmente en Uala
 - 💬 UTN - FRGP - Técnicatura en Programación.
 - 📫 Contacto: [maxirpc2607@gmail.com](mailto:maxirpc2607@gmail.com) 
 - 💻 Estudiante autodidacta
@@ -15,6 +15,7 @@
    * CSS
    * Javascript
    * Bootstrap
+   * Material
    * React JS
    * Node Js
    * Express Js
