@@ -28,14 +28,8 @@
 
 [![aws](https://img.shields.io/badge/amazonwebservices-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=101010)]()
 
-<a href="https://github.com/Maxi-rpc">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Maxi-rpc&show_icons=true&theme=dark&line_height=40" />
-</a>
 
-<a href="https://github.com/Maxi-rpc">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxi-rpc&theme=dark&hide_langs_below=1" />
-</a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Maxi-rpc&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=Maxi-rpc&show_icons=true&include_all_commits=true&theme=dark)
 
-
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Maxi-rpc&langs_count=4&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Maxi-rpc&langs_count=4&theme=dark)
 
